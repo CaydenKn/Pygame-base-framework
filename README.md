@@ -32,6 +32,7 @@ Usage:
     - Call the draw method of each object within the game loop to render them on the Pygame screen.
 
 Example:
+
     # Creating a Rect Object
     rect = Rect(x=100, y=100, width=50, height=30, color=(255, 0, 0)).draw(self.screen)
     
