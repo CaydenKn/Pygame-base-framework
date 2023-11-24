@@ -62,6 +62,8 @@ class Player(GameObject):
         # Draws the player's position onto the screen
         Text("(" + str(self.x) + ", " + str(self.y) + ")", self.x, self.y + self.height + 5, "white", 20).draw(screen)
         
+        Text("Health: " + str(self.health), 0, 0, "white", 20).draw(screen)
+        
         # draw a line to the players mouse position
         mouse_pos = pygame.mouse.get_pos()
         Line(self.x + self.width / 2, self.y + self.height / 2, mouse_pos[0], mouse_pos[1], "white").draw(screen)
