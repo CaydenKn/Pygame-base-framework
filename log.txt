@@ -307,3 +307,1287 @@ Game Started
 <Event(32770-VideoExpose {})>
 <Event(32776-WindowExposed {'window': None})>
 <Event(768-KeyDown {'unicode': '\x1b', 'key': 27, 'mod': 0, 'scancode': 41, 'window': None})>
+Game Started
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 6, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 7, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 8, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 1})>
+<Event(32774-WindowShown {'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 2})>
+<Event(32785-WindowFocusGained {'window': None})>
+<Event(770-TextEditing {'text': '', 'start': 0, 'length': 0, 'window': None})>
+<Event(32770-VideoExpose {})>
+<Event(32776-WindowExposed {'window': None})>
+Game Started
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 6, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 7, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 8, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 1})>
+<Event(32774-WindowShown {'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 2})>
+<Event(32785-WindowFocusGained {'window': None})>
+<Event(770-TextEditing {'text': '', 'start': 0, 'length': 0, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+<Event(32783-WindowEnter {'window': None})>
+<Event(1024-MouseMotion {'pos': (410, 473), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (404, 452), 'rel': (-6, -21), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (403, 451), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32770-VideoExpose {})>
+<Event(32776-WindowExposed {'window': None})>
+<Event(1024-MouseMotion {'pos': (403, 450), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (402, 449), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (402, 448), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (401, 446), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (400, 446), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+Game Started
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 6, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 7, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 8, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 1})>
+<Event(32774-WindowShown {'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 2})>
+<Event(32785-WindowFocusGained {'window': None})>
+<Event(770-TextEditing {'text': '', 'start': 0, 'length': 0, 'window': None})>
+<Event(32770-VideoExpose {})>
+<Event(32776-WindowExposed {'window': None})>
+Game Started
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 6, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 7, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 8, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 1})>
+<Event(32774-WindowShown {'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 2})>
+<Event(32785-WindowFocusGained {'window': None})>
+<Event(770-TextEditing {'text': '', 'start': 0, 'length': 0, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+<Event(32783-WindowEnter {'window': None})>
+<Event(1024-MouseMotion {'pos': (586, 597), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32770-VideoExpose {})>
+<Event(32776-WindowExposed {'window': None})>
+<Event(1024-MouseMotion {'pos': (585, 597), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (581, 596), 'rel': (-4, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (575, 595), 'rel': (-6, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (565, 592), 'rel': (-10, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (556, 588), 'rel': (-9, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (555, 587), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (553, 586), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (546, 582), 'rel': (-7, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (535, 574), 'rel': (-11, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (525, 565), 'rel': (-10, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (516, 553), 'rel': (-9, -12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (508, 537), 'rel': (-8, -16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (502, 519), 'rel': (-6, -18), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (501, 516), 'rel': (-1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (499, 494), 'rel': (-2, -22), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (499, 491), 'rel': (0, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (499, 470), 'rel': (0, -21), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (499, 467), 'rel': (0, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (502, 446), 'rel': (3, -21), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (503, 443), 'rel': (1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (510, 424), 'rel': (7, -19), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (511, 421), 'rel': (1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (520, 402), 'rel': (9, -19), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (530, 383), 'rel': (10, -19), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (537, 369), 'rel': (7, -14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (538, 368), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (542, 360), 'rel': (4, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (543, 359), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (541, 358), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 357), 'rel': (-5, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (527, 355), 'rel': (-9, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (518, 353), 'rel': (-9, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (509, 350), 'rel': (-9, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (508, 350), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (501, 349), 'rel': (-7, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (496, 348), 'rel': (-5, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (493, 347), 'rel': (-3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (493, 347), 'button': 1, 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (493, 347), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (492, 347), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (491, 348), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (490, 348), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (489, 349), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (488, 349), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (487, 350), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (486, 350), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (484, 351), 'rel': (-2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (482, 352), 'rel': (-2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (481, 352), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1024-MouseMotion {'pos': (480, 352), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (482, 351), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (484, 349), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (488, 347), 'rel': (4, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (489, 347), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (497, 344), 'rel': (8, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (512, 338), 'rel': (15, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (514, 337), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (533, 330), 'rel': (19, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 328), 'rel': (3, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (539, 327), 'rel': (3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (542, 326), 'rel': (3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (546, 324), 'rel': (4, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (550, 322), 'rel': (4, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (560, 317), 'rel': (10, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(1024-MouseMotion {'pos': (575, 310), 'rel': (15, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (600, 295), 'rel': (25, -15), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (631, 275), 'rel': (31, -20), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (634, 273), 'rel': (3, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (639, 270), 'rel': (5, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (665, 250), 'rel': (26, -20), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (669, 246), 'rel': (4, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (697, 223), 'rel': (28, -23), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (701, 219), 'rel': (4, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (730, 191), 'rel': (29, -28), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (760, 162), 'rel': (30, -29), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (763, 158), 'rel': (3, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (787, 129), 'rel': (24, -29), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (799, 99), 'rel': (21, -30), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 0, 'state': 1})>
+<Event(32784-WindowLeave {'window': None})>
+<Event(769-KeyUp {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(32787-WindowClose {'window': None})>
+Game Closed at 2023-11-23 22:50:40
+Game Started
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 6, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 7, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 8, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 1})>
+<Event(32774-WindowShown {'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 2})>
+<Event(32785-WindowFocusGained {'window': None})>
+<Event(770-TextEditing {'text': '', 'start': 0, 'length': 0, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+<Event(32783-WindowEnter {'window': None})>
+<Event(1024-MouseMotion {'pos': (451, 260), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (449, 242), 'rel': (-2, -18), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32770-VideoExpose {})>
+<Event(32776-WindowExposed {'window': None})>
+<Event(1024-MouseMotion {'pos': (449, 241), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (449, 240), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (449, 241), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (448, 242), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (447, 243), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (447, 244), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (446, 245), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (445, 246), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (444, 247), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (444, 249), 'rel': (0, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (444, 250), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (443, 251), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (443, 252), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (442, 253), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (441, 254), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (439, 254), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (439, 255), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (435, 256), 'rel': (-4, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (430, 257), 'rel': (-5, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (426, 258), 'rel': (-4, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (424, 259), 'rel': (-2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (423, 259), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (422, 259), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (421, 259), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (420, 260), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (419, 261), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (418, 261), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 's', 'key': 115, 'mod': 0, 'scancode': 22, 'window': None})>
+<Event(771-TextInput {'text': 's', 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1024-MouseMotion {'pos': (417, 262), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(769-KeyUp {'unicode': 's', 'key': 115, 'mod': 0, 'scancode': 22, 'window': None})>
+<Event(1024-MouseMotion {'pos': (416, 262), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (415, 263), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (415, 267), 'rel': (0, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (416, 273), 'rel': (1, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (419, 278), 'rel': (3, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (424, 284), 'rel': (5, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (425, 284), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (433, 290), 'rel': (8, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (434, 290), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (436, 291), 'rel': (2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (444, 297), 'rel': (8, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (446, 298), 'rel': (2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (460, 311), 'rel': (14, 13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (471, 328), 'rel': (11, 17), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (478, 347), 'rel': (7, 19), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (480, 367), 'rel': (2, 20), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (480, 369), 'rel': (0, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (479, 385), 'rel': (-1, 16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (472, 401), 'rel': (-7, 16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (471, 403), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (462, 417), 'rel': (-9, 14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (453, 430), 'rel': (-9, 13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (443, 443), 'rel': (-10, 13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (440, 448), 'rel': (-3, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1024-MouseMotion {'pos': (433, 456), 'rel': (-7, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (427, 464), 'rel': (-6, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (426, 465), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (425, 466), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (418, 472), 'rel': (-7, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (411, 478), 'rel': (-7, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (410, 478), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (402, 483), 'rel': (-8, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (394, 486), 'rel': (-8, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (387, 488), 'rel': (-7, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (387, 489), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (381, 490), 'rel': (-6, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (374, 492), 'rel': (-7, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (373, 492), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (365, 494), 'rel': (-8, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (356, 496), 'rel': (-9, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (347, 497), 'rel': (-9, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (340, 498), 'rel': (-7, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (338, 499), 'rel': (-2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (337, 499), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (337, 499), 'button': 1, 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (337, 499), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (337, 500), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (337, 501), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (335, 503), 'rel': (-2, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (335, 504), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (332, 506), 'rel': (-3, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (330, 510), 'rel': (-2, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (327, 514), 'rel': (-3, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (324, 517), 'rel': (-3, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (321, 520), 'rel': (-3, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (319, 522), 'rel': (-2, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (318, 523), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (318, 523), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (318, 524), 'rel': (0, 1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (318, 524), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (319, 524), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (320, 524), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (320, 525), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (323, 525), 'rel': (3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (327, 525), 'rel': (4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (328, 525), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (333, 526), 'rel': (5, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (335, 527), 'rel': (2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (336, 527), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (337, 527), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (341, 527), 'rel': (4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (347, 529), 'rel': (6, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (356, 530), 'rel': (9, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (367, 531), 'rel': (11, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (368, 531), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (370, 531), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (372, 532), 'rel': (2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (381, 532), 'rel': (9, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (383, 533), 'rel': (2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (385, 533), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (399, 535), 'rel': (14, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (401, 535), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (416, 537), 'rel': (15, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (423, 538), 'rel': (7, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (427, 538), 'rel': (4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (435, 539), 'rel': (8, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (441, 539), 'rel': (6, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (444, 539), 'rel': (3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (449, 540), 'rel': (5, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (456, 540), 'rel': (7, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (458, 540), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (467, 540), 'rel': (9, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (475, 540), 'rel': (8, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (477, 540), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (485, 540), 'rel': (8, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (486, 540), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (491, 540), 'rel': (5, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (492, 540), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (497, 540), 'rel': (5, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (504, 540), 'rel': (7, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (505, 540), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (506, 540), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (513, 540), 'rel': (7, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (515, 540), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (516, 540), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (524, 540), 'rel': (8, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (528, 539), 'rel': (4, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (538, 538), 'rel': (10, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (545, 537), 'rel': (7, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (549, 536), 'rel': (4, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (555, 535), 'rel': (6, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (559, 535), 'rel': (4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (561, 535), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (567, 534), 'rel': (6, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (573, 534), 'rel': (6, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (576, 534), 'rel': (3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (581, 534), 'rel': (5, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (588, 534), 'rel': (7, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (589, 534), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (594, 533), 'rel': (5, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (598, 532), 'rel': (4, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (600, 532), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (601, 532), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (602, 532), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (603, 532), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (606, 532), 'rel': (3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (607, 532), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (610, 531), 'rel': (3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (614, 531), 'rel': (4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (615, 531), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (618, 531), 'rel': (3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (619, 530), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (620, 530), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1024-MouseMotion {'pos': (622, 530), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (626, 529), 'rel': (4, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (631, 528), 'rel': (5, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (636, 527), 'rel': (5, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (641, 524), 'rel': (5, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (642, 524), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (646, 521), 'rel': (4, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (652, 516), 'rel': (6, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (657, 506), 'rel': (5, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (666, 487), 'rel': (9, -19), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (676, 462), 'rel': (10, -25), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (687, 429), 'rel': (11, -33), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (698, 390), 'rel': (11, -39), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (709, 334), 'rel': (11, -56), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (717, 273), 'rel': (8, -61), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (724, 204), 'rel': (7, -69), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (725, 197), 'rel': (1, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (726, 180), 'rel': (1, -17), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (727, 170), 'rel': (1, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (728, 163), 'rel': (1, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (729, 153), 'rel': (1, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (731, 124), 'rel': (2, -29), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (732, 114), 'rel': (1, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (733, 107), 'rel': (1, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (734, 101), 'rel': (1, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (739, 62), 'rel': (5, -39), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (748, 22), 'rel': (9, -40), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (757, 0), 'rel': (9, -34), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 0, 'state': 1})>
+<Event(32784-WindowLeave {'window': None})>
+<Event(32787-WindowClose {'window': None})>
+Game Closed at 2023-11-23 22:50:59
+Game Started
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 6, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 7, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 8, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 1})>
+<Event(32774-WindowShown {'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 2})>
+<Event(32785-WindowFocusGained {'window': None})>
+<Event(770-TextEditing {'text': '', 'start': 0, 'length': 0, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+<Event(32783-WindowEnter {'window': None})>
+<Event(1024-MouseMotion {'pos': (539, 338), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32770-VideoExpose {})>
+<Event(32776-WindowExposed {'window': None})>
+<Event(1024-MouseMotion {'pos': (539, 337), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (539, 333), 'rel': (0, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (539, 328), 'rel': (0, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (539, 327), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (538, 322), 'rel': (-1, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (537, 316), 'rel': (-1, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (537, 312), 'rel': (0, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 310), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 309), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 308), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 307), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 306), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 304), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 302), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (533, 305), 'rel': (-3, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (527, 313), 'rel': (-6, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (517, 327), 'rel': (-10, 14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (507, 340), 'rel': (-10, 13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (498, 352), 'rel': (-9, 12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (496, 354), 'rel': (-2, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (486, 365), 'rel': (-10, 11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (477, 375), 'rel': (-9, 10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (467, 385), 'rel': (-10, 10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (459, 394), 'rel': (-8, 9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (458, 397), 'rel': (-1, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (454, 401), 'rel': (-4, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (453, 403), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (453, 404), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (452, 407), 'rel': (-1, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (450, 410), 'rel': (-2, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (450, 411), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (450, 411), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (450, 412), 'rel': (0, 1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (450, 413), 'rel': (0, 1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (450, 414), 'rel': (0, 1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (450, 414), 'button': 1, 'touch': False, 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1024-MouseMotion {'pos': (451, 412), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (454, 410), 'rel': (3, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (454, 409), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (455, 409), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (460, 404), 'rel': (5, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (468, 398), 'rel': (8, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (479, 392), 'rel': (11, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (492, 387), 'rel': (13, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (494, 386), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (505, 382), 'rel': (11, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (511, 379), 'rel': (6, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (514, 377), 'rel': (3, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (515, 377), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (515, 376), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (515, 375), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (515, 373), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (515, 371), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (515, 368), 'rel': (0, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (514, 364), 'rel': (-1, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (511, 359), 'rel': (-3, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (507, 352), 'rel': (-4, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (502, 346), 'rel': (-5, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (496, 336), 'rel': (-6, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (490, 326), 'rel': (-6, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (489, 325), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (488, 323), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (487, 322), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (483, 314), 'rel': (-4, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (482, 313), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (477, 303), 'rel': (-5, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (471, 293), 'rel': (-6, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (470, 291), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (470, 290), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (466, 283), 'rel': (-4, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (463, 278), 'rel': (-3, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (462, 277), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (459, 280), 'rel': (-3, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (453, 292), 'rel': (-6, 12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (443, 312), 'rel': (-10, 20), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (442, 314), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (426, 342), 'rel': (-16, 28), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (403, 371), 'rel': (-23, 29), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (400, 373), 'rel': (-3, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (378, 394), 'rel': (-22, 21), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (374, 397), 'rel': (-4, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (350, 413), 'rel': (-24, 16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (328, 427), 'rel': (-22, 14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (326, 428), 'rel': (-2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (308, 442), 'rel': (-18, 14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (294, 456), 'rel': (-14, 14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (287, 463), 'rel': (-7, 7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1024-MouseMotion {'pos': (281, 469), 'rel': (-6, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (273, 477), 'rel': (-8, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (264, 486), 'rel': (-9, 9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (263, 487), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (263, 487), 'button': 4, 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (263, 487), 'button': 4, 'touch': False, 'window': None})>
+<Event(1027-MouseWheel {'flipped': False, 'x': 0, 'y': 1, 'precise_x': 0.0, 'precise_y': 1.0, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (255, 499), 'rel': (-8, 12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (247, 509), 'rel': (-8, 10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (247, 509), 'button': 4, 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (247, 509), 'button': 4, 'touch': False, 'window': None})>
+<Event(1027-MouseWheel {'flipped': False, 'x': 0, 'y': 1, 'precise_x': 0.0, 'precise_y': 1.0, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (242, 516), 'rel': (-5, 7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (241, 517), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (240, 519), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (240, 519), 'button': 4, 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (240, 519), 'button': 4, 'touch': False, 'window': None})>
+<Event(1027-MouseWheel {'flipped': False, 'x': 0, 'y': 1, 'precise_x': 0.0, 'precise_y': 1.0, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (240, 518), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (241, 517), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (243, 514), 'rel': (2, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (244, 514), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (248, 510), 'rel': (4, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (257, 504), 'rel': (9, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (267, 498), 'rel': (10, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (280, 492), 'rel': (13, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (293, 485), 'rel': (13, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (305, 479), 'rel': (12, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (317, 474), 'rel': (12, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (327, 469), 'rel': (10, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (335, 465), 'rel': (8, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (341, 461), 'rel': (6, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (345, 459), 'rel': (4, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1024-MouseMotion {'pos': (347, 457), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (351, 455), 'rel': (4, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (356, 452), 'rel': (5, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (359, 449), 'rel': (3, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (363, 447), 'rel': (4, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (366, 444), 'rel': (3, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (370, 441), 'rel': (4, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (375, 438), 'rel': (5, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (380, 435), 'rel': (5, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (381, 434), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (381, 434), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (385, 432), 'rel': (4, -2), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (386, 431), 'rel': (1, -1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (388, 430), 'rel': (2, -1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (389, 429), 'rel': (1, -1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (390, 429), 'rel': (1, 0), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (392, 426), 'rel': (2, -3), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (397, 423), 'rel': (5, -3), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (402, 418), 'rel': (5, -5), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (410, 412), 'rel': (8, -6), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (421, 407), 'rel': (11, -5), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (436, 402), 'rel': (15, -5), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (450, 397), 'rel': (14, -5), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (452, 397), 'rel': (2, 0), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (467, 392), 'rel': (15, -5), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (483, 386), 'rel': (16, -6), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (497, 381), 'rel': (14, -5), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (513, 375), 'rel': (16, -6), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (526, 372), 'rel': (13, -3), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (537, 371), 'rel': (11, -1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (547, 371), 'rel': (10, 0), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (551, 371), 'rel': (4, 0), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (552, 371), 'rel': (1, 0), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (552, 372), 'rel': (0, 1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (552, 376), 'rel': (0, 4), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (552, 384), 'rel': (0, 8), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (552, 392), 'rel': (0, 8), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (550, 401), 'rel': (-2, 9), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (548, 410), 'rel': (-2, 9), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (545, 419), 'rel': (-3, 9), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (543, 424), 'rel': (-2, 5), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (541, 428), 'rel': (-2, 4), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 429), 'rel': (-1, 1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (540, 429), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 427), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 425), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 423), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 419), 'rel': (0, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 417), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 416), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 415), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 414), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 412), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 410), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (539, 408), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (539, 407), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (538, 406), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (538, 405), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (537, 404), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 403), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (535, 401), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (534, 400), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (533, 399), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (531, 399), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (529, 399), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (528, 400), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (527, 400), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (525, 400), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (524, 400), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (523, 400), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (523, 399), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (522, 398), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (522, 397), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (522, 396), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (522, 395), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (521, 394), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (521, 393), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (521, 392), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (521, 391), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (520, 391), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (520, 388), 'rel': (0, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (519, 384), 'rel': (-1, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (519, 381), 'rel': (0, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (518, 380), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (517, 378), 'rel': (-1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (516, 377), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (516, 376), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (516, 375), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (515, 375), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (514, 377), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (513, 378), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (513, 379), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (513, 378), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (514, 375), 'rel': (1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (514, 372), 'rel': (0, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (514, 371), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (514, 370), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (514, 369), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (513, 369), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (516, 369), 'rel': (3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (519, 366), 'rel': (3, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (522, 364), 'rel': (3, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (522, 363), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (524, 361), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (526, 358), 'rel': (2, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (527, 355), 'rel': (1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (528, 354), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (528, 353), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (528, 352), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (529, 351), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (529, 350), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (530, 349), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (531, 347), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (532, 345), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (533, 344), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (533, 343), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (534, 340), 'rel': (1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 334), 'rel': (2, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (539, 329), 'rel': (3, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 329), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (544, 323), 'rel': (4, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (549, 316), 'rel': (5, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (555, 307), 'rel': (6, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (561, 296), 'rel': (6, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (568, 285), 'rel': (7, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (576, 269), 'rel': (8, -16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (577, 267), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (586, 251), 'rel': (9, -16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (599, 227), 'rel': (13, -24), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (601, 225), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (617, 200), 'rel': (16, -25), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (634, 173), 'rel': (17, -27), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (654, 145), 'rel': (20, -28), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (677, 116), 'rel': (23, -29), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (700, 91), 'rel': (23, -25), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (702, 88), 'rel': (2, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (723, 67), 'rel': (21, -21), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (740, 48), 'rel': (17, -19), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (755, 32), 'rel': (15, -16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (765, 19), 'rel': (10, -13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (767, 17), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (775, 8), 'rel': (8, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (776, 8), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (782, 0), 'rel': (6, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (785, 0), 'rel': (3, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 0, 'state': 1})>
+<Event(32784-WindowLeave {'window': None})>
+<Event(32787-WindowClose {'window': None})>
+Game Closed at 2023-11-23 22:51:13
+Game Started
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 6, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 7, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 8, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 1})>
+<Event(32774-WindowShown {'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 2})>
+<Event(32785-WindowFocusGained {'window': None})>
+<Event(770-TextEditing {'text': '', 'start': 0, 'length': 0, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+<Event(32783-WindowEnter {'window': None})>
+<Event(1024-MouseMotion {'pos': (548, 408), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32770-VideoExpose {})>
+<Event(32776-WindowExposed {'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (548, 407), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (543, 406), 'rel': (-5, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (538, 406), 'rel': (-5, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (534, 405), 'rel': (-4, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (531, 405), 'rel': (-3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (529, 405), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (527, 405), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (526, 405), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (524, 405), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (524, 405), 'button': 1, 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (524, 405), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (523, 406), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (515, 409), 'rel': (-8, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (500, 415), 'rel': (-15, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (475, 425), 'rel': (-25, 10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (450, 434), 'rel': (-25, 9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (414, 445), 'rel': (-36, 11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (377, 453), 'rel': (-37, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (334, 460), 'rel': (-43, 7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (301, 465), 'rel': (-33, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (295, 466), 'rel': (-6, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (273, 471), 'rel': (-22, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (271, 471), 'rel': (-2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (257, 476), 'rel': (-14, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (248, 482), 'rel': (-9, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (246, 484), 'rel': (-2, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (246, 484), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (246, 485), 'rel': (0, 1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (246, 486), 'rel': (0, 1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (246, 486), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (246, 487), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (247, 487), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (249, 485), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (251, 481), 'rel': (2, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (253, 475), 'rel': (2, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (254, 474), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (254, 473), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (255, 468), 'rel': (1, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (256, 460), 'rel': (1, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (256, 458), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (257, 451), 'rel': (1, -7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (258, 442), 'rel': (1, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (258, 431), 'rel': (0, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (259, 421), 'rel': (1, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (259, 417), 'rel': (0, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (261, 408), 'rel': (2, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (261, 406), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (264, 392), 'rel': (3, -14), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (267, 383), 'rel': (3, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (269, 377), 'rel': (2, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (272, 367), 'rel': (3, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (272, 366), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (273, 360), 'rel': (1, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (274, 357), 'rel': (1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (274, 356), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (275, 351), 'rel': (1, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (275, 349), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (275, 347), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (275, 345), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (275, 345), 'button': 1, 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (275, 345), 'button': 1, 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1024-MouseMotion {'pos': (275, 346), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (275, 348), 'rel': (0, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (274, 349), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(1024-MouseMotion {'pos': (282, 349), 'rel': (8, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (300, 349), 'rel': (18, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (328, 348), 'rel': (28, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (332, 348), 'rel': (4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (368, 347), 'rel': (36, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (408, 346), 'rel': (40, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (450, 346), 'rel': (42, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (455, 346), 'rel': (5, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (498, 346), 'rel': (43, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (537, 346), 'rel': (39, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (577, 348), 'rel': (40, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (606, 349), 'rel': (29, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (626, 349), 'rel': (20, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (640, 350), 'rel': (14, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (647, 351), 'rel': (7, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (648, 351), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (648, 352), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (648, 353), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (648, 355), 'rel': (0, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (648, 357), 'rel': (0, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (648, 361), 'rel': (0, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (648, 362), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (647, 365), 'rel': (-1, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (647, 368), 'rel': (0, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (646, 368), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(1024-MouseMotion {'pos': (645, 371), 'rel': (-1, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (644, 372), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (644, 373), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(1024-MouseMotion {'pos': (643, 374), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (642, 375), 'rel': (-1, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(1024-MouseMotion {'pos': (642, 376), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(769-KeyUp {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (642, 376), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (641, 377), 'rel': (-1, 1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (641, 377), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (639, 379), 'rel': (-2, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (636, 383), 'rel': (-3, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (633, 387), 'rel': (-3, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (629, 393), 'rel': (-4, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (626, 398), 'rel': (-3, 5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (626, 399), 'rel': (0, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (624, 405), 'rel': (-2, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (622, 413), 'rel': (-2, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (618, 425), 'rel': (-4, 12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (613, 442), 'rel': (-5, 17), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (606, 462), 'rel': (-7, 20), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (605, 465), 'rel': (-1, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (596, 485), 'rel': (-9, 20), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (595, 488), 'rel': (-1, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (594, 492), 'rel': (-1, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (585, 511), 'rel': (-9, 19), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (584, 513), 'rel': (-1, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (575, 530), 'rel': (-9, 17), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (563, 549), 'rel': (-12, 19), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (551, 565), 'rel': (-12, 16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (536, 578), 'rel': (-15, 13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (520, 588), 'rel': (-16, 10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (517, 590), 'rel': (-3, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (515, 591), 'rel': (-2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (498, 599), 'rel': (-17, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (477, 599), 'rel': (-21, 7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 0, 'state': 1})>
+<Event(32784-WindowLeave {'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+<Event(32783-WindowEnter {'window': None})>
+<Event(1024-MouseMotion {'pos': (335, 598), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (304, 582), 'rel': (-31, -16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (301, 581), 'rel': (-3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (272, 560), 'rel': (-29, -21), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (250, 542), 'rel': (-22, -18), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (233, 524), 'rel': (-17, -18), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (224, 508), 'rel': (-9, -16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (222, 495), 'rel': (-2, -13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (222, 480), 'rel': (0, -15), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (223, 478), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (227, 463), 'rel': (4, -15), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (233, 448), 'rel': (6, -15), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (241, 435), 'rel': (8, -13), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (243, 433), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (252, 421), 'rel': (9, -12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (260, 411), 'rel': (8, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (261, 410), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (272, 398), 'rel': (11, -12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (282, 388), 'rel': (10, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (293, 379), 'rel': (11, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (304, 369), 'rel': (11, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (316, 361), 'rel': (12, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (317, 360), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (319, 360), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (320, 359), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (321, 358), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (329, 354), 'rel': (8, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (331, 353), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (332, 352), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (336, 351), 'rel': (4, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (337, 351), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (339, 350), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (342, 349), 'rel': (3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (344, 348), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (345, 348), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (347, 347), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (350, 347), 'rel': (3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (363, 344), 'rel': (13, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (366, 343), 'rel': (3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (383, 341), 'rel': (17, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (400, 341), 'rel': (17, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (413, 341), 'rel': (13, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (417, 341), 'rel': (4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (421, 341), 'rel': (4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (425, 341), 'rel': (4, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (435, 342), 'rel': (10, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (437, 342), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (454, 348), 'rel': (17, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (471, 355), 'rel': (17, 7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (490, 366), 'rel': (19, 11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (507, 377), 'rel': (17, 11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (509, 379), 'rel': (2, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (521, 387), 'rel': (12, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (531, 394), 'rel': (10, 7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (537, 398), 'rel': (6, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (537, 398), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (538, 399), 'rel': (1, 1), 'buttons': (1, 0, 0), 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (538, 399), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (540, 395), 'rel': (2, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (542, 389), 'rel': (2, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (548, 373), 'rel': (6, -16), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (558, 346), 'rel': (10, -27), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (572, 314), 'rel': (14, -32), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (593, 275), 'rel': (21, -39), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (621, 233), 'rel': (28, -42), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (653, 189), 'rel': (32, -44), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (691, 141), 'rel': (38, -48), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (729, 96), 'rel': (38, -45), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (761, 56), 'rel': (32, -40), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (782, 29), 'rel': (21, -27), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (784, 27), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (799, 1), 'rel': (18, -26), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 0, 'state': 1})>
+<Event(32784-WindowLeave {'window': None})>
+<Event(32787-WindowClose {'window': None})>
+Game Closed at 2023-11-23 22:51:25
+Game Started
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 6, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 7, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 8, 'iscapture': 0})>
+<Event(4352-AudioDeviceAdded {'which': 0, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 1, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 2, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 3, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 4, 'iscapture': 1})>
+<Event(4352-AudioDeviceAdded {'which': 5, 'iscapture': 1})>
+<Event(32774-WindowShown {'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 2})>
+<Event(32785-WindowFocusGained {'window': None})>
+<Event(770-TextEditing {'text': '', 'start': 0, 'length': 0, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 1, 'state': 1})>
+<Event(32783-WindowEnter {'window': None})>
+<Event(1024-MouseMotion {'pos': (433, 353), 'rel': (0, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32770-VideoExpose {})>
+<Event(32776-WindowExposed {'window': None})>
+<Event(1024-MouseMotion {'pos': (433, 352), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (433, 350), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (434, 348), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (434, 346), 'rel': (0, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (435, 344), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (435, 341), 'rel': (0, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (436, 338), 'rel': (1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (437, 336), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (438, 334), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (439, 333), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (439, 333), 'button': 1, 'touch': False, 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (439, 333), 'button': 1, 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (437, 334), 'rel': (-2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (426, 337), 'rel': (-11, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (422, 338), 'rel': (-4, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (418, 340), 'rel': (-4, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (398, 347), 'rel': (-20, 7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (396, 348), 'rel': (-2, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (375, 355), 'rel': (-21, 7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (347, 365), 'rel': (-28, 10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (344, 366), 'rel': (-3, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (340, 367), 'rel': (-4, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (336, 368), 'rel': (-4, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (312, 375), 'rel': (-24, 7), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (275, 383), 'rel': (-37, 8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (241, 389), 'rel': (-34, 6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (236, 390), 'rel': (-5, 1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (207, 394), 'rel': (-29, 4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (184, 397), 'rel': (-23, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (166, 400), 'rel': (-18, 3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (156, 402), 'rel': (-10, 2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (153, 402), 'rel': (-3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (154, 402), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (155, 402), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1025-MouseButtonDown {'pos': (155, 402), 'button': 1, 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1026-MouseButtonUp {'pos': (155, 402), 'button': 1, 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (156, 402), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (156, 401), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (157, 401), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (158, 400), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (159, 399), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (160, 398), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (163, 397), 'rel': (3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (166, 396), 'rel': (3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (169, 395), 'rel': (3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (173, 393), 'rel': (4, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (174, 393), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (176, 392), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (183, 391), 'rel': (7, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (194, 390), 'rel': (11, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (208, 388), 'rel': (14, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (210, 388), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (225, 387), 'rel': (15, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (228, 387), 'rel': (3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1024-MouseMotion {'pos': (236, 386), 'rel': (8, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(1024-MouseMotion {'pos': (239, 386), 'rel': (3, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (253, 384), 'rel': (14, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (265, 383), 'rel': (12, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (267, 383), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (268, 383), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (277, 382), 'rel': (9, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (279, 382), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (292, 381), 'rel': (13, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (307, 379), 'rel': (15, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (310, 378), 'rel': (3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (312, 378), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (314, 378), 'rel': (2, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (329, 376), 'rel': (15, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (348, 372), 'rel': (19, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (368, 367), 'rel': (20, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (383, 362), 'rel': (15, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (385, 361), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (396, 356), 'rel': (11, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (404, 351), 'rel': (8, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (408, 347), 'rel': (4, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (409, 347), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (412, 344), 'rel': (3, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (415, 341), 'rel': (3, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (418, 339), 'rel': (3, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (420, 337), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (422, 335), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (423, 334), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(1024-MouseMotion {'pos': (424, 332), 'rel': (1, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (426, 330), 'rel': (2, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (427, 330), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(769-KeyUp {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(1024-MouseMotion {'pos': (428, 329), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(768-KeyDown {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(769-KeyUp {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(768-KeyDown {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(769-KeyUp {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+<Event(771-TextInput {'text': ' ', 'window': None})>
+<Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+<Event(768-KeyDown {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(769-KeyUp {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+<Event(771-TextInput {'text': ' ', 'window': None})>
+<Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(768-KeyDown {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(769-KeyUp {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(768-KeyDown {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+<Event(771-TextInput {'text': ' ', 'window': None})>
+<Event(769-KeyUp {'unicode': ' ', 'key': 32, 'mod': 0, 'scancode': 44, 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(768-KeyDown {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(771-TextInput {'text': 'a', 'window': None})>
+<Event(769-KeyUp {'unicode': 'a', 'key': 97, 'mod': 0, 'scancode': 4, 'window': None})>
+<Event(768-KeyDown {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(771-TextInput {'text': 'd', 'window': None})>
+<Event(769-KeyUp {'unicode': 'd', 'key': 100, 'mod': 0, 'scancode': 7, 'window': None})>
+<Event(1024-MouseMotion {'pos': (425, 328), 'rel': (-3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (423, 327), 'rel': (-2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (422, 326), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (427, 320), 'rel': (5, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (439, 311), 'rel': (12, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (456, 300), 'rel': (17, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (474, 289), 'rel': (18, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (477, 288), 'rel': (3, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (479, 287), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (494, 278), 'rel': (15, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (509, 268), 'rel': (15, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (524, 259), 'rel': (15, -9), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (537, 249), 'rel': (13, -10), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (550, 238), 'rel': (13, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (564, 226), 'rel': (14, -12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (578, 214), 'rel': (14, -12), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (591, 203), 'rel': (13, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (592, 202), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (602, 194), 'rel': (10, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (603, 193), 'rel': (1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (609, 187), 'rel': (6, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (614, 181), 'rel': (5, -6), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (616, 178), 'rel': (2, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (617, 178), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (616, 178), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (616, 177), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (615, 177), 'rel': (-1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (615, 176), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (615, 175), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (614, 174), 'rel': (-1, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (614, 173), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (614, 172), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (614, 171), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (614, 170), 'rel': (0, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (618, 168), 'rel': (4, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (624, 167), 'rel': (6, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (626, 166), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (635, 164), 'rel': (9, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (651, 163), 'rel': (16, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (668, 161), 'rel': (17, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (685, 160), 'rel': (17, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (701, 159), 'rel': (16, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (718, 157), 'rel': (17, -2), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (730, 153), 'rel': (12, -4), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (731, 153), 'rel': (1, 0), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (739, 148), 'rel': (8, -5), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (741, 147), 'rel': (2, -1), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (750, 139), 'rel': (9, -8), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (761, 128), 'rel': (11, -11), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (776, 111), 'rel': (15, -17), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (790, 93), 'rel': (14, -18), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (791, 90), 'rel': (1, -3), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(1024-MouseMotion {'pos': (799, 69), 'rel': (14, -21), 'buttons': (0, 0, 0), 'touch': False, 'window': None})>
+<Event(32768-ActiveEvent {'gain': 0, 'state': 1})>
+<Event(32784-WindowLeave {'window': None})>
+<Event(32787-WindowClose {'window': None})>
+Game Closed at 2023-11-23 22:51:53
